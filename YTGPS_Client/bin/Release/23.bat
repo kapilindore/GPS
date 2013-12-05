@@ -1,0 +1,1 @@
+For %%a in (*.dll) do regsvr32.exe /s /u %%a

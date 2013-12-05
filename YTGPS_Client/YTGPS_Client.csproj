@@ -1,0 +1,600 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1AE5680D-CBE5-4B6E-BE05-1DD9172203F3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>YTGPS_Client</RootNamespace>
+    <AssemblyName>GPS_Client</AssemblyName>
+    <SignManifests>false</SignManifests>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkSubset>
+    </TargetFrameworkSubset>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=6.9.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\Program Files\DotNetBar\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.CoreEngine, Version=7.0.0.200, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1, processorArchitecture=x86" />
+    <Reference Include="MapInfo.CoreEngine.Wrapper, Version=7.0.0.200, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MapInfo.CoreTypes, Version=7.0.0.200, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MapInfo.Windows, Version=7.0.0.200, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MapInfo.Wms.Client, Version=7.0.0.200, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Office.Tools.Excel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.NET\Framework64\v2.0.50727\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.NET\Framework64\v2.0.50727\System.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.NET\Framework64\v2.0.50727\System.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Design, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.NET\Framework64\v2.0.50727\System.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.NET\Framework64\v2.0.50727\System.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="System.EnterpriseServices, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.NET\Framework64\v2.0.50727\System.EnterpriseServices.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.NET\Framework64\v2.0.50727\System.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.NET\Framework64\v2.0.50727\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.NET\Framework64\v2.0.50727\System.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="System.XML, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.NET\Framework64\v2.0.50727\System.XML.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Declare\Declare.cs" />
+    <Compile Include="Declare\FormDeclare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Declare\FormDeclare.designer.cs">
+      <DependentUpon>FormDeclare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Declare\FormDeclareList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Declare\FormDeclareList.designer.cs">
+      <DependentUpon>FormDeclareList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Declare\FormDeclareListHis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Declare\FormDeclareListHis.Designer.cs">
+      <DependentUpon>FormDeclareListHis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Config\FormLayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config\FormLayer.Designer.cs">
+      <DependentUpon>FormLayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.GisSocket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other\FormFuel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other\FormFuel.Designer.cs">
+      <DependentUpon>FormFuel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other\FormStartup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other\FormStartup.Designer.cs">
+      <DependentUpon>FormStartup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pub\AboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pub\AboutBox.Designer.cs">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Account.cs" />
+    <Compile Include="Car\Car.cs" />
+    <Compile Include="Car\FormCarList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Car\FormCarList.Designer.cs">
+      <DependentUpon>FormCarList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Car\FormQueryCondition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Car\FormQueryCondition.designer.cs">
+      <DependentUpon>FormQueryCondition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other\FormChat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other\FormChat.Designer.cs">
+      <DependentUpon>FormChat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Config\FormMap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config\FormMap.Designer.cs">
+      <DependentUpon>FormMap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List\FormOperationHis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List\FormOperationHis.Designer.cs">
+      <DependentUpon>FormOperationHis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List\FormOrderHis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List\FormOrderHis.designer.cs">
+      <DependentUpon>FormOrderHis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order\FormPtTianHe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order\FormPtTianHe.Designer.cs">
+      <DependentUpon>FormPtTianHe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pub\ServerSocket.cs" />
+    <Compile Include="StrConst.cs" />
+    <Compile Include="Pub\ClientSocket.cs" />
+    <Compile Include="Config\Config.cs" />
+    <Compile Include="Pub\Constant.cs" />
+    <Compile Include="Car\FormCarNotify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Car\FormCarNotify.Designer.cs">
+      <DependentUpon>FormCarNotify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other\FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other\FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SuperClass\FormUntitle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SuperClass\FormUntitle.Designer.cs">
+      <DependentUpon>FormUntitle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List\FormAlarmList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List\FormAlarmList.Designer.cs">
+      <DependentUpon>FormAlarmList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Car\FormCar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Car\FormCar.Designer.cs">
+      <DependentUpon>FormCar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Car\FormCarInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Car\FormCarInfo.Designer.cs">
+      <DependentUpon>FormCarInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Car\FormCarStoped.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Car\FormCarStoped.Designer.cs">
+      <DependentUpon>FormCarStoped.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other\FormCheckPw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other\FormCheckPw.Designer.cs">
+      <DependentUpon>FormCheckPw.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Config\FormConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config\FormConfig.Designer.cs">
+      <DependentUpon>FormConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List\FormHandleAlarm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List\FormHandleAlarm.Designer.cs">
+      <DependentUpon>FormHandleAlarm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List\FormHisAlarm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List\FormHisAlarm.Designer.cs">
+      <DependentUpon>FormHisAlarm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List\FormHisPos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List\FormHisPos.Designer.cs">
+      <DependentUpon>FormHisPos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.Map.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Car\FormCarServiceTime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Car\FormCarServiceTime.Designer.cs">
+      <DependentUpon>FormCarServiceTime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List\FormOverSvrList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List\FormOverSvrList.Designer.cs">
+      <DependentUpon>FormOverSvrList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order\FormPtXunLuoShu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order\FormPtXunLuoShu.Designer.cs">
+      <DependentUpon>FormPtXunLuoShu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Car\FormTeam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Car\FormTeam.Designer.cs">
+      <DependentUpon>FormTeam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.Socket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Car\FormTeamInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Car\FormTeamInfo.Designer.cs">
+      <DependentUpon>FormTeamInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Account\FormAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Account\FormAccount.Designer.cs">
+      <DependentUpon>FormAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Account\FormUserInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Account\FormUserInfo.Designer.cs">
+      <DependentUpon>FormUserInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Account\FormAccountList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Account\FormAccountList.Designer.cs">
+      <DependentUpon>FormAccountList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Config\FormLayer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormLayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Declare\FormDeclare.resx">
+      <DependentUpon>FormDeclare.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Declare\FormDeclareList.resx">
+      <DependentUpon>FormDeclareList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Declare\FormDeclareListHis.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormDeclareListHis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other\FormFuel.resx">
+      <DependentUpon>FormFuel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other\FormStartup.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormStartup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pub\AboutBox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Car\FormCarNotify.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormCarNotify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Car\FormCarList.resx">
+      <DependentUpon>FormCarList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other\FormChat.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormChat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other\FormLogin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Car\FormQueryCondition.resx">
+      <DependentUpon>FormQueryCondition.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config\FormMap.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormMap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List\FormAlarmList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormAlarmList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Car\FormCar.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormCar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Car\FormCarInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormCarInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Car\FormCarStoped.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormCarStoped.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other\FormCheckPw.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormCheckPw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config\FormConfig.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List\FormHandleAlarm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormHandleAlarm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List\FormHisAlarm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormHisAlarm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List\FormHisPos.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormHisPos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Car\FormCarServiceTime.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormCarServiceTime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List\FormOperationHis.resx">
+      <DependentUpon>FormOperationHis.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List\FormOrderHis.resx">
+      <DependentUpon>FormOrderHis.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List\FormOverSvrList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormOverSvrList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\FormPtXunLuoShu.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormPtXunLuoShu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Car\FormTeam.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormTeam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Car\FormTeamInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormTeamInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Account\FormAccount.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Account\FormUserInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormUserInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Account\FormAccountList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormAccountList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\FormPtTianHe.resx">
+      <DependentUpon>FormPtTianHe.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuperClass\FormUntitle.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormUntitle.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Pub\Pub.cs" />
+    <Compile Include="Account\User.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn4.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn5.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn6.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn7.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn8.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn9.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="app.ico" />
+    <Content Include="Resources\0.gif" />
+    <Content Include="Resources\2.gif" />
+    <Content Include="Resources\1.gif" />
+    <Content Include="Resources\bk.bmp" />
+    <None Include="app.config" />
+    <None Include="Resources\bk4.bmp" />
+    <None Include="Resources\bthelp.bmp" />
+    <None Include="Resources\btconfig.bmp" />
+    <None Include="Resources\btabout.bmp" />
+    <None Include="Resources\btmsg.bmp" />
+    <None Include="Resources\btsidebar.bmp" />
+    <None Include="Resources\btexit.bmp" />
+    <None Include="Resources\btlogout.bmp" />
+    <None Include="Resources\btlogin.bmp" />
+    <None Include="Resources\tbk.bmp" />
+    <None Include="Resources\fbk3.bmp" />
+    <None Include="Resources\fbk2.bmp" />
+    <None Include="Resources\fbk1.bmp" />
+    <None Include="Resources\bk3.bmp" />
+    <None Include="Resources\bk2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Extend\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

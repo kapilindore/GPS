@@ -1,0 +1,95 @@
+!Workspace
+!Version 400
+!Charset WindowsSimpChinese
+Open Table "省界" As 省界 Interactive
+Open Table "市界" As 市界 Interactive
+Open Table "区县界" As 区县界 Interactive
+Open Table "信息点" As 信息点 Interactive
+Open Table "县道" As 县道 Interactive
+Open Table "高速" As 高速 Interactive
+Open Table "国道" As 国道 Interactive
+Open Table "市道" As 市道 Interactive
+Set Window Info
+  Position (12.0104,6.72917) Units "in"
+  Width 2.60417 Units "in" Height 2.02083 Units "in" 
+  Font ("System",0,12,0)
+Open Window Info
+Map From 信息点,县道,市道,国道,高速,区县界,市界,省界 
+  Position (0.0520833,0.0520833) Units "in"
+  Width 7.45833 Units "in" Height 3.84375 Units "in" 
+Set Window FrontWindow() ScrollBars Off Autoscroll On
+Set Map
+  CoordSys Earth Projection 1, 104
+  Center (103.8039639,36.5765983)
+  Zoom 8146.208457 Units "km"
+  Preserve Zoom Display Zoom
+  Distance Units "km" Area Units "sq km" XY Units "degree"
+Set Map
+  Layer 1
+    Display Graphic
+    Global   Symbol (35,0,12)   
+    Zoom (0, 5) Units "km" 
+    Label Line Arrow Position Right Font ("宋体",0,12,0) Pen (1,2,0) 
+      With Name
+      Parallel On Auto On Overlap Off Duplicates On Offset 2
+      Visibility On
+  Layer 2
+    Display Global
+    Global   Symbol (35,0,12)  Line (1,2,16767072)  
+    Zoom (0, 10) Units "km" 
+    Label Line Arrow Position Above Font ("宋体",0,12,0) Pen (1,2,0) 
+      With Name
+      Parallel On Auto On Overlap Off Duplicates Off Offset 2
+      Visibility On
+  Layer 3
+    Display Global
+    Global   Symbol (35,0,12)  Line (2,2,16758944)  
+    Zoom (0, 40) Units "km" 
+    Label Line Arrow Position Above Font ("宋体",0,12,0) Pen (1,2,0) 
+      With Name
+      Parallel On Auto On Overlap Off Duplicates Off Offset 2
+      Visibility On
+  Layer 4
+    Display Graphic
+    Global   Symbol (35,0,12)   
+    Zoom (0, 100) Units "km" 
+    Label Line Arrow Position Above Font ("宋体",0,12,0) Pen (1,2,0) 
+      With Name
+      Parallel On Auto On Overlap Off Duplicates Off Offset 2
+      Visibility On
+  Layer 5
+    Display Graphic
+    Global   Symbol (35,0,12)   
+    Zoom (0, 100) Units "km" 
+    Label Line Arrow Position Above Font ("宋体",0,12,0) Pen (1,2,0) 
+      With Name
+      Parallel On Auto On Overlap Off Duplicates Off Offset 2
+      Visibility On
+  Layer 6
+    Display Graphic
+    Global   Symbol (35,0,12)   
+    Zoom (0, 300) Units "km" 
+    Label Line None Position Center Font ("宋体",0,12,0) Pen (1,2,0) 
+      With Name
+      Parallel On Auto On Overlap Off Duplicates On Offset 2
+      Visibility On
+  Layer 7
+    Display Graphic
+    Global   Symbol (35,0,12)   
+    Zoom (300, 1800) Units "km" 
+    Label Line None Position Center Font ("宋体",0,12,0) Pen (1,2,0) 
+      With Name
+      Parallel On Auto On Overlap Off Duplicates On Offset 2
+      Visibility On
+  Layer 8
+    Display Graphic
+    Global   Symbol (35,0,12)   
+    Zoom (1800, 100000) Units "km" 
+    Label Line None Position Center Font ("宋体",0,12,0) Pen (1,2,0) 
+      With Name
+      Parallel On Auto On Overlap Off Duplicates On Offset 2
+      Visibility On
+Dim WorkspaceMaximizedWindow As Integer
+WorkspaceMaximizedWindow = Frontwindow()
+Set Window WorkspaceMaximizedWindow Max
+Undim WorkspaceMaximizedWindow
