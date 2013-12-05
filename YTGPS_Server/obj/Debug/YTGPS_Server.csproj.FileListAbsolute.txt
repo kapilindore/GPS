@@ -1,0 +1,7 @@
+G:\work\working code\Car\YTGPS_cs2\YTGPS_Server\obj\Debug\ResolveAssemblyReference.cache
+G:\work\working code\Car\YTGPS_cs2\YTGPS_Server\obj\Debug\YTGPS_Server.FormConfig.resources
+G:\work\working code\Car\YTGPS_cs2\YTGPS_Server\obj\Debug\YTGPS_Server.FormMain.resources
+G:\work\working code\Car\YTGPS_cs2\YTGPS_Server\obj\Debug\YTGPS_Server.FormSmsConfig.resources
+G:\work\working code\Car\YTGPS_cs2\YTGPS_Server\obj\Debug\YTGPS_Server.Properties.Resources.resources
+G:\work\working code\Car\YTGPS_cs2\YTGPS_Server\obj\Debug\YTGPS_Server.AboutBox.resources
+G:\work\working code\Car\YTGPS_cs2\YTGPS_Server\obj\Debug\YTGPS_Server.csproj.GenerateResource.Cache

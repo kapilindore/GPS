@@ -1,0 +1,2130 @@
+
+[13:12:09]
+mscorlib
+输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 809
+
+
+[13:13:45]
+mscorlib
+输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 809
+
+
+[13:13:49]
+mscorlib
+输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 809
+
+
+[13:13:49]
+mscorlib
+输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 809
+
+
+[13:13:50]
+mscorlib
+输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 809
+
+
+[13:13:50]
+mscorlib
+输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 809
+
+
+[13:13:51]
+mscorlib
+输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 809
+
+
+[13:13:51]
+mscorlib
+输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 809
+
+
+[13:13:51]
+mscorlib
+输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 809
+
+
+[13:13:51]
+mscorlib
+输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 809
+
+
+[13:13:51]
+mscorlib
+输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 809
+
+
+[13:13:52]
+mscorlib
+输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 809
+
+
+[13:13:52]
+mscorlib
+输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 809
+
+
+[13:13:52]
+mscorlib
+输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 809
+
+
+[13:13:52]
+mscorlib
+输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 809
+
+
+[13:15:18]
+mscorlib
+输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 809
+
+
+[13:15:20]
+mscorlib
+输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 809
+
+
+[13:15:21]
+mscorlib
+输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 809
+
+
+[13:15:21]
+mscorlib
+输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 809
+
+
+[13:15:21]
+mscorlib
+输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 809
+
+
+[13:15:23]
+mscorlib
+输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 809
+
+
+[13:15:23]
+mscorlib
+输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 809
+
+
+[14:04:25]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[14:04:32]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[14:04:43]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[14:04:45]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[14:04:47]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[14:09:17]
+GPS_Server
+无法将类型为“System.Data.DataColumn”的对象强制转换为类型“System.Data.DataRow”。
+System.InvalidCastException: 无法将类型为“System.Data.DataColumn”的对象强制转换为类型“System.Data.DataRow”。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 817
+
+
+[14:09:21]
+GPS_Server
+无法将类型为“System.Data.DataColumn”的对象强制转换为类型“System.Data.DataRow”。
+System.InvalidCastException: 无法将类型为“System.Data.DataColumn”的对象强制转换为类型“System.Data.DataRow”。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 817
+
+
+[14:38:50]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[14:38:58]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[14:40:39]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[14:41:15]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[14:42:22]
+System.Data
+在位置 2 处没有任何行。
+System.IndexOutOfRangeException: 在位置 2 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[14:42:24]
+System.Data
+在位置 2 处没有任何行。
+System.IndexOutOfRangeException: 在位置 2 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[14:42:24]
+System.Data
+在位置 2 处没有任何行。
+System.IndexOutOfRangeException: 在位置 2 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[14:42:25]
+System.Data
+在位置 2 处没有任何行。
+System.IndexOutOfRangeException: 在位置 2 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[14:42:25]
+System.Data
+在位置 2 处没有任何行。
+System.IndexOutOfRangeException: 在位置 2 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[14:42:25]
+System.Data
+在位置 2 处没有任何行。
+System.IndexOutOfRangeException: 在位置 2 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[14:42:26]
+System.Data
+在位置 2 处没有任何行。
+System.IndexOutOfRangeException: 在位置 2 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[14:42:26]
+System.Data
+在位置 2 处没有任何行。
+System.IndexOutOfRangeException: 在位置 2 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[14:49:23]
+System.Data
+筛选表达式“'la'”的计算结果不是布尔值项。
+System.Data.EvaluateException: 筛选表达式“'la'”的计算结果不是布尔值项。
+   在 System.Data.Select.AcceptRecord(Int32 record)
+   在 System.Data.Select.GetLinearFilteredRows(Range range)
+   在 System.Data.Select.SelectRows()
+   在 System.Data.DataTable.Select(String filterExpression)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 821
+
+
+[14:49:25]
+System.Data
+筛选表达式“'la'”的计算结果不是布尔值项。
+System.Data.EvaluateException: 筛选表达式“'la'”的计算结果不是布尔值项。
+   在 System.Data.Select.AcceptRecord(Int32 record)
+   在 System.Data.Select.GetLinearFilteredRows(Range range)
+   在 System.Data.Select.SelectRows()
+   在 System.Data.DataTable.Select(String filterExpression)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 821
+
+
+[14:49:25]
+System.Data
+筛选表达式“'la'”的计算结果不是布尔值项。
+System.Data.EvaluateException: 筛选表达式“'la'”的计算结果不是布尔值项。
+   在 System.Data.Select.AcceptRecord(Int32 record)
+   在 System.Data.Select.GetLinearFilteredRows(Range range)
+   在 System.Data.Select.SelectRows()
+   在 System.Data.DataTable.Select(String filterExpression)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 821
+
+
+[14:49:25]
+System.Data
+筛选表达式“'la'”的计算结果不是布尔值项。
+System.Data.EvaluateException: 筛选表达式“'la'”的计算结果不是布尔值项。
+   在 System.Data.Select.AcceptRecord(Int32 record)
+   在 System.Data.Select.GetLinearFilteredRows(Range range)
+   在 System.Data.Select.SelectRows()
+   在 System.Data.DataTable.Select(String filterExpression)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 821
+
+
+[15:05:32]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:05:32]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:05:35]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:05:35]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:05:35]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:05:35]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:07:12]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:07:13]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:07:13]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:07:14]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:07:14]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:07:14]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:07:15]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:07:29]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:07:29]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:07:29]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:07:29]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:07:30]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:07:30]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:23:29]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:23:30]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:23:30]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:23:31]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:47:03]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:47:07]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:47:07]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:47:07]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:47:07]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:47:07]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:47:08]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:47:08]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:47:08]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:47:35]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:47:36]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:47:36]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:47:36]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:47:37]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:47:40]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:47:40]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:47:41]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:47:41]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:47:41]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:47:42]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:47:42]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:47:42]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:48:34]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:48:35]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:48:38]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:48:38]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:48:39]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:48:39]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:48:39]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:48:40]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:48:40]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:48:41]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:48:41]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[15:48:41]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:12:17]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:12:19]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:12:20]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:12:20]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:12:21]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:12:21]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:12:21]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:12:22]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:12:22]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:12:22]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:12:23]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:14:52]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:14:52]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:14:53]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:14:53]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:14:53]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:14:54]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:14:54]
+System.Data
+在位置 1 处没有任何行。
+System.IndexOutOfRangeException: 在位置 1 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.RBTree`1.get_Item(Int32 index)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:30:09]
+System.Data
+无法找到表 1。
+System.IndexOutOfRangeException: 无法找到表 1。
+   在 System.Data.DataTableCollection.get_Item(Int32 index)
+   在 YTGPS_Server.DBManager.ExecuteQueryA(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 140
+
+
+[16:30:09]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:31:16]
+System.Data
+无法找到表 1。
+System.IndexOutOfRangeException: 无法找到表 1。
+   在 System.Data.DataTableCollection.get_Item(Int32 index)
+   在 YTGPS_Server.DBManager.ExecuteQueryA(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 140
+
+
+[16:31:16]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:31:16]
+System.Data
+无法找到表 1。
+System.IndexOutOfRangeException: 无法找到表 1。
+   在 System.Data.DataTableCollection.get_Item(Int32 index)
+   在 YTGPS_Server.DBManager.ExecuteQueryA(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 140
+
+
+[16:31:16]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:31:16]
+System.Data
+无法找到表 1。
+System.IndexOutOfRangeException: 无法找到表 1。
+   在 System.Data.DataTableCollection.get_Item(Int32 index)
+   在 YTGPS_Server.DBManager.ExecuteQueryA(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 140
+
+
+[16:31:16]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:31:17]
+System.Data
+无法找到表 1。
+System.IndexOutOfRangeException: 无法找到表 1。
+   在 System.Data.DataTableCollection.get_Item(Int32 index)
+   在 YTGPS_Server.DBManager.ExecuteQueryA(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 140
+
+
+[16:31:17]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:31:17]
+System.Data
+无法找到表 1。
+System.IndexOutOfRangeException: 无法找到表 1。
+   在 System.Data.DataTableCollection.get_Item(Int32 index)
+   在 YTGPS_Server.DBManager.ExecuteQueryA(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 140
+
+
+[16:31:17]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:31:17]
+System.Data
+无法找到表 1。
+System.IndexOutOfRangeException: 无法找到表 1。
+   在 System.Data.DataTableCollection.get_Item(Int32 index)
+   在 YTGPS_Server.DBManager.ExecuteQueryA(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 140
+
+
+[16:31:17]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:31:17]
+System.Data
+无法找到表 1。
+System.IndexOutOfRangeException: 无法找到表 1。
+   在 System.Data.DataTableCollection.get_Item(Int32 index)
+   在 YTGPS_Server.DBManager.ExecuteQueryA(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 140
+
+
+[16:31:17]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:31:18]
+System.Data
+无法找到表 1。
+System.IndexOutOfRangeException: 无法找到表 1。
+   在 System.Data.DataTableCollection.get_Item(Int32 index)
+   在 YTGPS_Server.DBManager.ExecuteQueryA(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 140
+
+
+[16:31:18]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[16:31:18]
+System.Data
+无法找到表 1。
+System.IndexOutOfRangeException: 无法找到表 1。
+   在 System.Data.DataTableCollection.get_Item(Int32 index)
+   在 YTGPS_Server.DBManager.ExecuteQueryA(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 140
+
+
+[16:31:18]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 811
+
+
+[20:30:25]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:30:25]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:30:26]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:30:26]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:30:27]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:30:27]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:30:27]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:30:27]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:30:28]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:30:28]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:30:28]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:30:28]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:30:28]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:30:28]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:30:31]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:30:31]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:30:32]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:30:32]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:30:32]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:30:32]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:30:32]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:30:32]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:30:32]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:30:32]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:30:33]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:30:33]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:30:33]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:30:33]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:30:33]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:30:33]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:30:33]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:30:33]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:30:33]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:30:33]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:32:23]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:32:23]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:32:23]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:32:23]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:32:24]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:32:24]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:34:00]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:34:00]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:36:17]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:36:17]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:36:18]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:36:18]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:36:19]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:36:19]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:36:19]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:36:19]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:36:19]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:36:19]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:36:19]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:36:19]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:36:19]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:36:19]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+
+
+[20:36:20]
+.Net SqlClient Data Provider
+找不到存储过程 'select_lola'。
+System.Data.SqlClient.SqlException: 找不到存储过程 'select_lola'。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YTGPS_Server.DBManager.ExecuteQuery(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 104
+
+
+[20:36:20]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Mileage(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 812
+

@@ -1,0 +1,550 @@
+
+[12:42:04]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 181
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:42:15]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 181
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:42:17]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 181
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:42:22]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 181
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:42:54]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 181
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:45:54]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 181
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:53:49]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 181
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:53:58]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 181
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:54:01]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 181
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:58:11]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 181
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:58:13]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 181
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:58:15]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 181
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:58:16]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 181
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:58:18]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 181
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:58:19]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 181
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:58:20]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 181
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:58:21]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 181
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:58:22]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 181
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:58:22]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 181
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:58:23]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 181
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:58:24]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 181
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:58:25]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 181
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[13:34:41]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[13:34:51]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[13:35:13]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[13:35:30]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[13:36:03]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[13:44:20]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[13:44:33]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[13:44:36]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[13:44:39]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[13:44:42]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[13:45:27]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[13:47:01]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[13:47:09]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[13:59:21]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[14:07:50]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[14:07:58]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[14:14:50]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[15:45:44]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[15:46:15]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[15:50:34]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[15:51:10]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[16:01:35]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[16:13:49]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[16:20:06]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[16:20:24]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[16:20:35]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[16:20:44]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[16:20:51]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[16:32:37]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[16:32:40]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[16:32:43]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[17:43:54]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[17:44:16]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[18:10:14]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[18:17:32]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[18:18:25]
+GPS_Server
+未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 653
+
+
+[23:47:44]
+.Net SqlClient Data Provider
+'.1' 附近有语法错误。
+System.Data.SqlClient.SqlException: '.1' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 YTGPS_Server.DBManager.ExecuteUpdate(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 137
+
+
+[23:48:23]
+.Net SqlClient Data Provider
+'.1' 附近有语法错误。
+System.Data.SqlClient.SqlException: '.1' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 YTGPS_Server.DBManager.ExecuteUpdate(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 137
+
+
+[23:50:26]
+.Net SqlClient Data Provider
+'.1' 附近有语法错误。
+System.Data.SqlClient.SqlException: '.1' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 YTGPS_Server.DBManager.ExecuteUpdate(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 137
+
+
+[23:53:40]
+.Net SqlClient Data Provider
+'.1' 附近有语法错误。
+System.Data.SqlClient.SqlException: '.1' 附近有语法错误。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 YTGPS_Server.DBManager.ExecuteUpdate(String sql) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Pub\DBManager.cs:行号 137
+

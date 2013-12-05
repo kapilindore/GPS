@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<set>
+  <dbHost>(local)</dbHost>
+  <dbName>YTGPS_cs</dbName>
+  <dbUser>{^mb7t:Cub{9m:33</dbUser>
+  <dbPw>{^mb7taCuKD$twmI9IGKLR9Tpj33</dbPw>
+  <smsConfig>
+    <smsName>移动短信专线</smsName>
+    <smsHost>localhost</smsHost>
+    <smsPort>8700</smsPort>
+    <smsPw>{^mb7of:u@fou9m:2R33</smsPw>
+    <enabled>1</enabled>
+  </smsConfig>
+  <smsAutoStart>0</smsAutoStart>
+  <dataPort>8800</dataPort>
+  <dataPw>12345</dataPw>
+  <dataAutoStart>0</dataAutoStart>
+  <modemPort>8600</modemPort>
+  <modemPw>
+  </modemPw>
+  <modemAutoStart>0</modemAutoStart>
+  <gprsPort>8500</gprsPort>
+  <tcpCutTime>42</tcpCutTime>
+  <gprsAutoStart>0</gprsAutoStart>
+  <allowChat>1</allowChat>
+</set>

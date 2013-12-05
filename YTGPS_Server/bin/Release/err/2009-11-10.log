@@ -1,0 +1,110 @@
+
+[16:40:48]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.FormMain.gprsServer_OnReceive(Socket socket, String msg) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.Tcp.cs:行号 229
+
+
+[18:47:17]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.FormMain.gprsServer_OnReceive(Socket socket, String msg) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.Tcp.cs:行号 237
+
+
+[18:47:54]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.FormMain.gprsServer_OnReceive(Socket socket, String msg) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.Tcp.cs:行号 237
+
+
+[18:47:55]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.FormMain.gprsServer_OnReceive(Socket socket, String msg) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.Tcp.cs:行号 237
+
+
+[18:47:58]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.FormMain.gprsServer_OnReceive(Socket socket, String msg) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.Tcp.cs:行号 237
+
+
+[18:47:59]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.FormMain.gprsServer_OnReceive(Socket socket, String msg) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.Tcp.cs:行号 237
+
+
+[18:48:00]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.FormMain.gprsServer_OnReceive(Socket socket, String msg) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.Tcp.cs:行号 237
+
+
+[18:48:00]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.FormMain.gprsServer_OnReceive(Socket socket, String msg) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.Tcp.cs:行号 237
+
+
+[18:48:00]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.FormMain.gprsServer_OnReceive(Socket socket, String msg) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.Tcp.cs:行号 237
+
+
+[18:48:01]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.FormMain.gprsServer_OnReceive(Socket socket, String msg) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.Tcp.cs:行号 237
+
+
+[18:48:30]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.FormMain.gprsServer_OnReceive(Socket socket, String msg) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.Tcp.cs:行号 237
+

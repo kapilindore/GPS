@@ -1,0 +1,22 @@
+F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\obj\Release\ResolveAssemblyReference.cache
+F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\obj\Release\YTGPS_Server.FormConfig.resources
+F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\obj\Release\YTGPS_Server.FormMain.resources
+F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\obj\Release\YTGPS_Server.FormSmsConfig.resources
+F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\obj\Release\YTGPS_Server.Properties.Resources.resources
+F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\obj\Release\YTGPS_Server.AboutBox.resources
+F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\obj\Release\YTGPS_Server.csproj.GenerateResource.Cache
+F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\bin\Release\GPS_Server.exe
+F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\bin\Release\GPS_Server.pdb
+F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\obj\Release\GPS_Server.exe
+F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\obj\Release\GPS_Server.pdb
+G:\work\working code\Car\YTGPS_cs2\YTGPS_Server\bin\Release\GPS_Server.exe
+G:\work\working code\Car\YTGPS_cs2\YTGPS_Server\bin\Release\GPS_Server.pdb
+G:\work\working code\Car\YTGPS_cs2\YTGPS_Server\obj\Release\ResolveAssemblyReference.cache
+G:\work\working code\Car\YTGPS_cs2\YTGPS_Server\obj\Release\YTGPS_Server.FormConfig.resources
+G:\work\working code\Car\YTGPS_cs2\YTGPS_Server\obj\Release\YTGPS_Server.FormMain.resources
+G:\work\working code\Car\YTGPS_cs2\YTGPS_Server\obj\Release\YTGPS_Server.FormSmsConfig.resources
+G:\work\working code\Car\YTGPS_cs2\YTGPS_Server\obj\Release\YTGPS_Server.Properties.Resources.resources
+G:\work\working code\Car\YTGPS_cs2\YTGPS_Server\obj\Release\YTGPS_Server.AboutBox.resources
+G:\work\working code\Car\YTGPS_cs2\YTGPS_Server\obj\Release\YTGPS_Server.csproj.GenerateResource.Cache
+G:\work\working code\Car\YTGPS_cs2\YTGPS_Server\obj\Release\GPS_Server.exe
+G:\work\working code\Car\YTGPS_cs2\YTGPS_Server\obj\Release\GPS_Server.pdb

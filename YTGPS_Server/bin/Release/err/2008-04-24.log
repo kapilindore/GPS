@@ -1,0 +1,18 @@
+
+[00:20:03]
+mscorlib
+输入字符串的格式不正确。
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 YTGPS_Server.FormMain.C_Info_ModifyAccount(DataClient dataClient, String rec) 位置 F:\VS\YTGPS_cs2_yonghua\YTGPS_Server\FormMain.DataSocket.cs:行号 1154
+   在 YTGPS_Server.FormMain.data_RevMsg(Socket st, String mess) 位置 F:\VS\YTGPS_cs2_yonghua\YTGPS_Server\FormMain.DataSocket.cs:行号 234
+
+
+[00:32:09]
+YTGPS_Server
+索引超出了数组界限。
+System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 YTGPS_Server.FormMain.LoadInfoFromDB() 位置 F:\VS\YTGPS_cs2_yonghua\YTGPS_Server\FormMain.DB.cs:行号 168
+

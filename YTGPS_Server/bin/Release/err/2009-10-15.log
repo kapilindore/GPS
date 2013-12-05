@@ -1,0 +1,286 @@
+
+[12:46:04]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:49:02]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:49:05]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:49:06]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:49:07]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:49:10]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:49:16]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:49:24]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:49:59]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:50:09]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:50:10]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:50:11]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:50:57]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:51:02]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:51:05]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:51:10]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:51:18]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:54:58]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[12:55:05]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[13:00:23]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[13:00:39]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[13:05:37]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[13:05:38]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[13:05:40]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[13:20:43]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
+
+[13:20:55]
+mscorlib
+索引和长度必须引用该字符串内的位置。
+参数名: length
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   在 YTGPS_Server.Protocol_XunLuoShu.CreatePointOrder(Boolean gprs, String mno) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\Protocol\Protocol_XunLuoShu.cs:行号 180
+   在 YTGPS_Server.FormMain.C_Pos_Point(DataClient dataClient, String rec) 位置 F:\GPS 新\working code\Car\YTGPS_cs2\YTGPS_Server\FormMain.DataSocket.cs:行号 645
+
